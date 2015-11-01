@@ -1,0 +1,17 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "new",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "keywords": [
+    "system"
+  ],
+  "author": "semseven",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
